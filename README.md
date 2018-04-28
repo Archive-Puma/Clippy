@@ -1,5 +1,7 @@
 <img src="https://cdn.rawgit.com/CosasDePuma/Clippy/0e02f0b8/.img/Clippy.png" align="right" width="100">
+
 # Clippy
+
 ### A stack-based clipboard
 
 :vhs: Clone me!
