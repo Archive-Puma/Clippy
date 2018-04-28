@@ -19,9 +19,9 @@ def paste():
         pass
 
 def main():
-    keyboard.add_hotkey('ctrl+c', copy)
+    keyboard.add_hotkey('ctrl+c', copy) # or cntl+x
     keyboard.add_hotkey('ctrl+v', paste)
     keyboard.wait()
 
 if __name__ == '__main__':
-    main()
+    main() # hide console pls
