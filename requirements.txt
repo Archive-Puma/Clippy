@@ -1,2 +1,5 @@
-keyboard >= 0.13.1
 pyperclip >= 1.6.0
+keyboard >= 0.13.1
+
+idna>=2.6
+cx_freeze>=5.11
